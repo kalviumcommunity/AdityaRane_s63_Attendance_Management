@@ -1,4 +1,4 @@
-# Attendance Management System - Part 1
+# Attendance Management System
 
 ## Project Overview
 
@@ -41,6 +41,7 @@ java -cp src com.school.Main
 Welcome to Attendance Management System!
 This is Part 1 of the project setup.
 Project structure created successfully!
+Ready for development!
 ```
 
 ## Git Setup Commands
@@ -85,6 +86,14 @@ This is Part 1 of the project. Future parts will include:
 - Attendance tracking functionality
 - Enhanced user interface
 - Database integration
+
+## Code Structure
+
+The Main.java file has been refactored to use separate methods for better code organization:
+- `displayWelcomeMessage()`: Shows the welcome message
+- `displayProjectInfo()`: Displays project setup information
+
+This approach improves code readability and maintainability.
 
 ## About
 
