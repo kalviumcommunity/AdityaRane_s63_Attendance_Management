@@ -42,6 +42,16 @@ Welcome to Attendance Management System!
 This is Part 1 of the project setup.
 Project structure created successfully!
 Ready for development!
+
+System Information:
+Java Version: 11.0.16
+Operating System: Windows 10
+
+Next Steps:
+1. Create Student and Course classes
+2. Implement attendance tracking
+3. Add data persistence
+4. Create user interface
 ```
 
 ## Git Setup Commands
@@ -92,8 +102,10 @@ This is Part 1 of the project. Future parts will include:
 The Main.java file has been refactored to use separate methods for better code organization:
 - `displayWelcomeMessage()`: Shows the welcome message
 - `displayProjectInfo()`: Displays project setup information
+- `displaySystemInfo()`: Shows system information (Java version, OS)
+- `displayNextSteps()`: Lists upcoming development tasks
 
-This approach improves code readability and maintainability.
+This approach improves code readability and maintainability while providing useful system information.
 
 ## About
 
