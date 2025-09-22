@@ -64,6 +64,22 @@ public class Course {
     }
 
     /**
+     * Get the course ID
+     * @return Course ID
+     */
+    public String getCourseId() {
+        return courseId;
+    }
+
+    /**
+     * Get the course name
+     * @return Course name
+     */
+    public String getCourseName() {
+        return courseName;
+    }
+
+    /**
      * Get the maximum capacity of the course
      * @return Maximum capacity
      */
